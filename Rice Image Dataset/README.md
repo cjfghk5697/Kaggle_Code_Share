@@ -1,3 +1,3 @@
 # Rice image dataset
-[code share](https://www.kaggle.com/code/chulwhahan/rice-image-classfication-with-pytorch)
-
+[code share](https://www.kaggle.com/code/chulwhahan/classfication-image-efficientnet-with-pytorch/notebook)
+* Train is very slow
