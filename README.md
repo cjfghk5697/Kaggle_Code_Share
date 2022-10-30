@@ -13,3 +13,11 @@
 
 
 ## GAN
+  * [🍋Analysis Lemon and DCGAN🍋](https://github.com/cjfghk5697/Code_Share/blob/main/GAN/Lemon%20Dataset/analysis-lemon-and-dcgan.ipynb)
+    > [Kaggle Notebook](https://www.kaggle.com/code/chulwhahan/analysis-lemon-and-dcgan)
+    >>  Classification, Prevent Overfitting(Short Data), XAI(GradCAM)
+
+## Data Analysis
+  * [Artwork Painter Data Analysis]()
+    > [DACON]()
+    >>  Analysis, Visualization
