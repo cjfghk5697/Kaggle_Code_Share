@@ -19,7 +19,9 @@
   * [🥾Making your own shoes design with InfoGAN👠](https://github.com/cjfghk5697/Code_Share/blob/main/GAN/Shoe%20vs%20Sandal%20vs%20Boot%20Image%20Dataset/making-your-own-shoes-design-with-infogan.ipynb)
     > [Kaggle Notebook](https://www.kaggle.com/code/chulwhahan/making-your-own-shoes-design-with-infogan)
     >>  InfoGAN, Latent Space
-
+  * [InfoGAN을 이용해 의류 이미지 데이터를 생성하자👕👖](https://github.com/cjfghk5697/Code_Share/blob/main/GAN/Fashion%20MNIST/InfoGAN_DACON.ipynb)
+    > [DACON](https://dacon.io/codeshare/7026)
+    >> InfoGAN, Latent Space
 ## Data Analysis
   * [Artwork Painter Data Analysis](https://github.com/cjfghk5697/Code_Share/blob/main/Data%20Analysis/Artwork%20Painter%20Data%20Analysis/Artwork%20Painter%20Data%20Analysis.ipynb)
     > [DACON](https://dacon.io/competitions/official/236006/codeshare/6978?page=1&dtype=recent)
