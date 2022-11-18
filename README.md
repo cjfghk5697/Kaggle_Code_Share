@@ -23,6 +23,9 @@
     > [DACON](https://dacon.io/codeshare/7026)
     >> InfoGAN, Latent Space
 ## Data Analysis
-  * [Artwork Painter Data Analysis](https://github.com/cjfghk5697/Code_Share/blob/main/Data%20Analysis/Artwork%20Painter%20Data%20Analysis/Artwork%20Painter%20Data%20Analysis.ipynb)
+  * [[분석] 화가, 장르 그리고 시대에 따른 데이터 분석](https://github.com/cjfghk5697/Code_Share/blob/main/Data%20Analysis/Artwork%20Painter%20Data%20Analysis/Artwork%20Painter%20Data%20Analysis.ipynb)
     > [DACON](https://dacon.io/competitions/official/236006/codeshare/6978?page=1&dtype=recent)
+    >>  Analysis, Visualization
+  * [[시각화]🚲 따릉이 미세먼지, 시간, 비에 관한 고찰 및 분석🚲](https://github.com/cjfghk5697/Code_Share/blob/main/Data%20Analysis/Ttereung%20Data%20analysis/Ttareung%20data%20analysis.ipynb)
+    > [DACON](https://dacon.io/competitions/open/235576/codeshare/7076?page=1&dtype=recent)
     >>  Analysis, Visualization
